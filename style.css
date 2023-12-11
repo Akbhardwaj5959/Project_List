@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: azure; */
+}
+.photo{
+    margin-top: 10px;
+    /* padding: 10px; */
+    width: 15vw;
+    height: 30vh;
+    border-radius: 50%;
+    /* border-color: black; */
+    box-shadow: 5px 5px 10px black;
+}
+
+.header{
+    display: flex;
+    
+    
+}
+
+.name{
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    margin: 20px;
+    /* text-align: center; */
+}
+
+.logo{
+    width: 1vw;
+    height: 5vh;
+}
+
+.head{
+    background-color: gray;
+}
+
+.footer{
+    background-color: rgb(227, 218, 218);
+}

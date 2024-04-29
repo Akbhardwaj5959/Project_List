@@ -40,3 +40,33 @@
 .footer{
     background-color: rgb(227, 218, 218);
 }
+
+.footer a{
+    text-decoration: none;
+    color: rgb(47, 121, 148);
+    
+}
+
+
+
+
+@media (max-width: 768px) {
+    .header {
+         flex-direction: column; 
+               align-items: center;
+               padding: 10px; 
+            } 
+
+    .header img { 
+        margin-bottom: 10px;
+     } 
+
+     .header nav { 
+        margin-top: 10px;
+     }
+
+     .header nav a {
+         margin-left: 0;
+     } 
+} 
+
